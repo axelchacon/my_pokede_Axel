@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 # paso 1: npm create vite@latest
 
 # paso 2: npm install ya que no hay node_modules y otros
+
+# paso 3: para usar emotion : npm install @emotion/css @emotion/react @emotion/styled
